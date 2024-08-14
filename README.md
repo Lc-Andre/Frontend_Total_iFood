@@ -42,7 +42,7 @@ Utilizando JavaScript, implementei a lógica para atualizar dinamicamente a inte
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilização e layout responsivo.
+- **CSS3**: Estilização.
 - **JavaScript**: Lógica de integração com a API e manipulação do DOM.
 - **Fetch API**: Requisições HTTP para o backend.
 
